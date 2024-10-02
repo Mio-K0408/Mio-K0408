@@ -2,7 +2,11 @@
 プロフィールを作ってみた
 
 # Languages and Tools
-![](https://skillicons.dev/icons?i=html,css,js,react,py,java,spring,selenium,eclipse,vscode,mysql,postgres,github,notion)
+![](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,py,django,java,spring,selenium,eclipse,vscode,pycharm,mysql,postgres,github,notion,latex)  
+LaTeXは簡単な表や数式なら書けるってレベル  
+
+# Study Now...
+![](https://skillicons.dev/icons?i=react,materialui,nodejs,cpp,aws,figma)
 
 # About me
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Mio-K0408&show_icons=true&locale=en&layout=compact)
